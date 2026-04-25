@@ -1,4 +1,4 @@
-# Your service name goes here
+# NHS Liverpool Prototype
 
 This repo is used as a template for creating new prototypes using the NHS Prototype kit.
 
